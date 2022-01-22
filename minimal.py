@@ -1,5 +1,7 @@
 import pygame
 
+#Hi
+
 def main():
     print("are we getting here?")
     pygame.init()
